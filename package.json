@@ -1,15 +1,29 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@octokit/rest": "^17.6.0",
+    "axios": "^0.19.2",
     "dotenv": "^8.0.0",
-    "inquirer": "^6.3.1"
-  }
+    "inquire": "^0.4.8",
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamntrout/ReadMeGeneratorUnit909.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/williamntrout/ReadMeGeneratorUnit909/issues"
+  },
+  "homepage": "https://github.com/williamntrout/ReadMeGeneratorUnit909#readme",
+  "description": ""
 }
