@@ -1,6 +1,6 @@
 # ReadMeGeneratorUnit909
 
-![Licenses](https://img.shields.io/badge/license-MIT-blue.svg)
+![Licenses](https://img.shields.io/badge/License-MIT-yellow.svg)(https://badge.fury.io/gh/williamntrout%2FReadMeGeneratorUnit909.svg)(https://badge.fury.io/gh/williamntrout%2FReadMeGeneratorUnit909)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ None
 
 # Tests
 
-jest
+JEST
 
 # Username
 

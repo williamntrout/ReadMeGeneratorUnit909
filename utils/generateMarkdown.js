@@ -2,7 +2,7 @@ function generateMarkdown(data) {
   return `
 # ${data.repositoryName}
 
-![Licenses](https://img.shields.io/badge/license-${data.license}-blue.svg)
+![Licenses][![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)][![GitHub version](https://badge.fury.io/gh/williamntrout%2FReadMeGeneratorUnit909.svg)](https://badge.fury.io/gh/williamntrout%2FReadMeGeneratorUnit909)
  
 
 ## Table of Contents
