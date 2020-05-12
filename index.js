@@ -52,13 +52,6 @@ function writeToFile(fileName, data) {
 
 }
 
-// function generateMarkDown(answers) {
-//     return ` data`
-// };
-
-// fs.writeFile("README.md", answers, (err) => {
-//   if (err) return console.log(err);
-// });
 
 function init() {
     inquirer.prompt(questions).then((inquirerResponse) => {
@@ -72,43 +65,3 @@ function init() {
 }
 
 init();
-
-// promptUser()
-//     .then(function (answers) {
-//         const data = generateMarkdown(answers);
-
-//         return writeFileAsync("README.md", data);
-//     })
-//     .then(function () {
-//         console.log("Successfully wrote to README.md");
-//     })
-//     .catch(function (err) {
-//         console.log(err);
-//     });
-
-// fs.writeFile('README.md', answers, (err) {
-//     if (err) return console.log(err);
-//     console.log(answers);
-// });
-
-// const inq = require("inquirer");
-// const questions = require("./utils/questions");
-// const md_gen = require("./utils/generateMarkdown").generateMarkdown;
-
-// function writeToFile(fileName, data) {}
-
-// function init() {
-//     console.log("Hello from the Readme Generator");
-//     inq.prompt(questions.questions).then(answers => {
-//         console.log(answers)
-//         md_gen(answers)
-//     }).catch(err => {
-//         console.log(err.status)
-//     })
-// }
-
-// const cool_init = async () => {
-//     const answers = await inq.prompt(questions).catch(err => console.log)
-// }
-
-// init();

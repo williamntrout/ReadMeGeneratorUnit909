@@ -44,14 +44,7 @@ ${data.userName}
 
 module.exports = generateMarkdown;
 
-// function generateMarkdown(data) {
-//   return 
-// # ${data.title}
 
-// `;
-// }
-
-// module.exports = generateMarkdown;
 
 
 
