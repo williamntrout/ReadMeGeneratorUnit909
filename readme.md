@@ -1,38 +1,40 @@
-# ReadMeGenertorUnit909
+
+# ReadMeGeneratorUnit909
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+ 
 
 ## Table of Contents
+  * Installation
+  * Usage
+  * License
+  * Contributing Sources
+  * Tests
+  * Questions
+  
 
-- Installation
-- Usage
-- License
-- Contributing Sources
-- Tests
-- Questions
-
-## Description
-
+## Description 
 Following the given prompts, the application will generate a clean and uniform markdown file for the project it is attached to. Asking a uniform list of questions will assure consistency in content, appearance, and accuracy.
+  
 
 # Installation
-
 axios, inquirer
+
 
 # Usages
 
-# License
 
+# License
 MIT
 
-# Contributing Sources
 
+# Contributing Sources
 None
 
-# Tests
 
+# Tests
 JEST
 
-# Username
 
+# Username
 williamntrout
