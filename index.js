@@ -25,12 +25,12 @@ const questions = [{
     {
         type: "input",
         name: "tests",
-        message: "What wil you be using for a testing framework?",
+        message: "What will you be using for a testing framework?",
     },
     {
         type: "input",
         name: "description",
-        message: "Write a description of your project",
+        message: "Write a description of your project?",
     }, {
         type: "input",
         name: "license",
@@ -42,7 +42,7 @@ const questions = [{
     }, {
         type: "input",
         name: "installation",
-        message: "Write a description of your project",
+        message: "Which dependencies do you want to use?",
     },
 ]
 

@@ -1,6 +1,6 @@
-# Justin Rice
+# ReadMeGeneratorUnit909
 
-// ![Licenses](https://img.shields.io/badge/license-MIT-blue.svg)
+![Licenses](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
 
@@ -11,28 +11,28 @@
 - Tests
 - Questions
 
-## Description\*\*
+## Description
 
-It tests things
+Following the given prompts, the application will generate a clean and uniform markdown file for the project it is attached to. Asking a uniform list of questions will assure consistency in content, appearance, and accuracy.
 
 # Installation
 
-### Its better yhanyours
+axios, inquirer
 
 # Usages
 
 # License
 
-### MIT
+MIT
 
 # Contributing Sources
 
-### Everyone
+None
 
 # Tests
 
-### jest
+jest
 
 # Username
 
-jsrice7391
+williamntrout

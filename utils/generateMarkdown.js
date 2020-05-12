@@ -1,6 +1,6 @@
 function generateMarkdown(data) {
   return `
-# ${data.authorName}
+# ${data.repositoryName}
 
 ![Licenses](https://img.shields.io/badge/license-${data.license}-blue.svg)
  
@@ -19,7 +19,7 @@ ${data.description}
   
 
 # Installation
-### ${data.installation}
+${data.installation}
 
 
 # Usages
@@ -30,11 +30,11 @@ ${data.license}
 
 
 # Contributing Sources
- ### ${data.contributors}
+${data.contributors}
 
 
 # Tests
-### ${data.tests}
+${data.tests}
 
 
 # Username
