@@ -1,6 +1,6 @@
 # ReadMeGeneratorUnit909
 
-![Licenses](https://img.shields.io/badge/License-MIT-yellow.svg)(https://badge.fury.io/gh/williamntrout%2FReadMeGeneratorUnit909.svg)(https://badge.fury.io/gh/williamntrout%2FReadMeGeneratorUnit909)
+![Licenses](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
 
